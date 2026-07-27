@@ -76,7 +76,7 @@
 
 <br>
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
+
 <div align="center">
 
 ### 👻 Contribution Pac-Man
@@ -88,11 +88,6 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 </div>
 
