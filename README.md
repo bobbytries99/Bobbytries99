@@ -79,44 +79,14 @@
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 <div align="center">
 
-### 🐍 Contribution Snake
+### 👻 Contribution Pac-Man
 
-<!--
-  To enable this animated snake, add the following GitHub Action workflow
-  at: .github/workflows/snake.yml in this repository (bobbytries99/bobbytries99)
-
-```yaml
-  name: Generate Snake Animation
-  on:
-    schedule:
-      - cron: "0 0 * * *"     # runs once a day
-    workflow_dispatch: {}
-    push:
-      branches:
-        - main
-
-  jobs:
-    generate:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:
-        - name: Generate Snake Animation SVG
-          uses: Platane/snk@v3
-          with:
-            github_user_name: bobbytries99
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - name: Push Output to Output Branch
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
--->
+<!-- pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobbytries99/bobbytries99/output/github-contribution-grid-snake-dark.svg">
