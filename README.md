@@ -102,19 +102,12 @@
   <a href="https://linkedin.com/in/gnaneswar-gullapalli-970a49196" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/[your-x-handle]" target="_blank">
-    <img src="https://img.shields.io/badge/X-FFC107?style=for-the-badge&logo=x&logoColor=black" alt="X"/>
-  </a>
-  <a href="https://instagram.com/[your-instagram-handle]" target="_blank">
+ 
+  <a href="https://instagram.com/___gnane____" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://tiktok.com/@[your-tiktok-handle]" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-FFC107?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok"/>
-  </a>
-  <a href="https://youtube.com/@[your-youtube-handle]" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:[your-email@example.com]" target="_blank">
+  
+  <a href="mailto:gnaneswargullapalli99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-FFC107?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
 </p>
